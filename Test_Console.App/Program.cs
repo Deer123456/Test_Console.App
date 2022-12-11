@@ -10,6 +10,8 @@ namespace Test_Console.App
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello Git Hab");
+            Console.ReadLine();
         }
     }
 }
