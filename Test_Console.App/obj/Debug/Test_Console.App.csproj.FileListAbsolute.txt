@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\bin\Debug\Test_Console.App.exe.config
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\bin\Debug\Test_Console.App.exe
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\bin\Debug\Test_Console.App.pdb
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\obj\Debug\Test_Console.App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\obj\Debug\Test_Console.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\obj\Debug\Test_Console.App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\obj\Debug\Test_Console.App.exe
+C:\Users\user\source\repos\Test_Console.App\Test_Console.App\obj\Debug\Test_Console.App.pdb
